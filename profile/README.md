@@ -22,8 +22,8 @@ AllaTre enables users to create and participate in timed auctions with live bidd
 
 ### 📱 Mobile App Demo
 
-<!-- Replace the link below with your GitHub user-attachments video URL -->
-https://www.youtube.com/watch?v=Q6anT52n7e8
+[![Mobile Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=Q6anT52n7e8))
+
 ### 🖥️ Admin Dashboard Demo
 
 <!-- Replace the link below with your GitHub user-attachments video URL -->
